@@ -1,3 +1,5 @@
+package net.parisotto.exemplos;
+
 /* beecrowd | 1002 | Área do Círculo
  * https://www.beecrowd.com.br/judge/pt/problems/view/1002
  * 
@@ -15,8 +17,6 @@ com 4 casas após o ponto decimal. Utilize variáveis de dupla precisão (double
 Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, 
 caso contrário, você receberá "Presentation Error".
  */
-
-package net.parisotto.exemplos;
 
 import java.io.IOException;
 import java.util.Scanner;

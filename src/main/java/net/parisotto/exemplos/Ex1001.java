@@ -1,3 +1,5 @@
+package net.parisotto.exemplos;
+
 /* beecrowd | 1001 | Extremamente Básico
  * https://www.beecrowd.com.br/judge/pt/problems/view/1001
  * 
@@ -13,8 +15,6 @@
  * Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. 
  * Cuide para que tenha um espaço antes e depois do sinal de igualdade
  */
-
-package net.parisotto.exemplos;
 
 import java.io.IOException;
 import java.util.Scanner;
